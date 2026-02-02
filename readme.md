@@ -75,20 +75,6 @@ npm run dev
 npm start
 Open the URL from the terminal (e.g. http://localhost:5173 for Vite).
 ```
-## 📁 Project Structure
-text
-src/
-  components/
-    Hero.jsx        // Hero section with main headline and CTAs
-    Services.jsx    // Service cards for different AI offerings
-    Process.jsx     // "How we work" steps with tilt hover effect
-    Contact.jsx     // Contact form integrated with EmailJS
-    Footer.jsx      // Footer with brand, links, and CTA
-    Tilt.jsx        // Reusable mouse-based 3D tilt wrapper
-  App.jsx           // Main layout and section composition
-  index.css         // Global styles, layout, responsive rules
-  main.jsx / index.js
-
 
 ## 🌐 Deployment
 You can deploy this app to any static hosting platform (Vercel, Netlify, GitHub Pages, etc.).
